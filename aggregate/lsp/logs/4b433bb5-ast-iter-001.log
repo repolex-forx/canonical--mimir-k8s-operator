@@ -1,0 +1,7 @@
+[2026-11-08T18:58:43Z] === AST ITERATION 1 START | repo=canonical/mimir-k8s-operator sha=4b433bb5 ===
+[2026-11-08T18:58:43Z] [iter=1] PHASE START: ast repo=canonical/mimir-k8s-operator sha=4b433bb5
+[2026-11-08T18:58:43Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T18:59:00Z] [iter=1] AST chunks built count=1 triples=289406
+[2026-11-08T18:59:00Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/4b433bb56fd4e1d29b9792617ad36f65c8c5711e/.complete
+[2026-11-08T18:59:00Z] [iter=1] PHASE END: ast elapsed_s=17 elapsed_min=0.3
+[2026-11-08T18:59:00Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
